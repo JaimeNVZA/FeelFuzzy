@@ -106,7 +106,7 @@ def mostrar_gui():
                 treeview.insert("", "end", values=resultado)
 
     root = tk.Tk()
-    root.title("Análisis de Sentimientos con Lógica Difusa")
+    root.title("FeelFuzzy - Análisis de Sentimientos")
     root.geometry("800x600")
 
     label = tk.Label(root, text="Seleccione un archivo CSV para procesar:", font=("Arial", 14))
