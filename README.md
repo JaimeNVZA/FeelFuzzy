@@ -6,7 +6,7 @@ Análisis difuso de sentimientos
 Luego de clonar el repositorio:
 
 1. Ejecuta una terminal en la carpeta del proyecto.
-2. Escribe el siguiente código:
+2. Escribe el siguiente código para instalar las dependecias:
 
    ```bash
    py nltk_requirements.py
